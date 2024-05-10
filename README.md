@@ -1,5 +1,6 @@
-# ros2_course
-Ros2 project
+## ros2_course
+This ROS 2 project is designed to draw two simple fractals: the Koch snowflake and the Cesàro fractal.
+
 ### Build the package:
 
 `cd ros2_ws`
@@ -7,3 +8,5 @@ Ros2 project
 
 ### Run the package
 `ros2 launch ros2_course turtle.launch.py`
+
+
